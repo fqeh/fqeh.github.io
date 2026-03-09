@@ -65,4 +65,12 @@ sections:
       view: date-title-summary
       spacing:
         padding: [0, 0, 0, 0]
+  - block: markdown
+    id: contact
+    content:
+      title: Contact
+      text: |-
+        Feel free to reach out via [email](mailto:ali.alfageeh@uh.edu), [GitHub](https://github.com/fqeh), or [Google Scholar](https://scholar.google.com/citations?user=Tif1W5AAAAAJ&hl=en).
+    design:
+      columns: '1'
 ---
