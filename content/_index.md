@@ -65,6 +65,7 @@ sections:
       view: date-title-summary
       spacing:
         padding: [0, 0, 0, 0]
+
   - block: markdown
     id: contact
     content:
