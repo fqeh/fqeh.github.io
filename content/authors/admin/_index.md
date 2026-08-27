@@ -32,7 +32,7 @@ education:
     date_start: 2023-09-01
     date_end: ''
     summary: |
-      Researching LLM safety and prompt compression, with a focus on making language models more reliable, efficient, and practical.
+      PhD student researching LLM safety and prompt compression, with a focus on making language models more reliable, efficient, and practical.
 
 work:
   - position: Lecturer
@@ -41,9 +41,9 @@ work:
     date_start: 2020-01-01
     date_end: ''
     summary: |
-      - Describe your strongest impact with numbers.
-      - Mention systems, products, or customer outcomes.
-      - Add the stack you use daily.
+      - Teach computer science courses and help students build strong foundations in programming and software development.
+      - Design course materials, assignments, and assessments to support practical, hands-on learning.
+      - Advise students on technical projects, academic progress, and career development.
 
 skills:
   - name: Core Skills
@@ -62,7 +62,7 @@ skills:
         icon: cloud
 
 languages:
-  - name: English
+  - name: Arabic and English
     percent: 95
 
 awards:
