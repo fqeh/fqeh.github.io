@@ -35,10 +35,10 @@ education:
       Researching LLM safety and prompt compression, with a focus on making language models more reliable, efficient, and practical.
 
 work:
-  - position: Software Engineer
-    company_name: Add your current company
+  - position: Lecturer
+    company_name: Umm Al-Qura University
     company_url: ''
-    date_start: 2022-01-01
+    date_start: 2020-01-01
     date_end: ''
     summary: |
       - Describe your strongest impact with numbers.
