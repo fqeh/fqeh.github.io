@@ -75,4 +75,4 @@ awards:
 
 ## About Me
 
-I'm a software engineer focused on delivering reliable products with clean user experiences. This site highlights my projects, writing, and professional background.
+I'm a PhD student focused on delivering reliable products with clean user experiences. This site highlights my projects, writing, and professional background.
