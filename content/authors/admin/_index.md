@@ -1,6 +1,6 @@
 ---
 title: FQEH
-first_name: FQEH
+first_name: Ali Alfageeh
 last_name: ''
 
 status:
@@ -75,4 +75,4 @@ awards:
 
 ## About Me
 
-I'm a PhD student focused on delivering reliable products with clean user experiences. This site highlights my projects, writing, and professional background.
+Researching LLM safety and prompt compression, with a focus on making language models more reliable, efficient, and practical.
