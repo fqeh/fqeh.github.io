@@ -9,11 +9,11 @@ status:
 superuser: true
 highlight_name: true
 
-role: Software Engineer
+role: LLM Researcher
 
 organizations:
-  - name: Open to opportunities
-    url: ''
+  - name: Umm Al-Qura University
+    url: https://uqu.edu.sa/aafgeeh/App/CV
 
 profiles:
   - icon: brands/github
