@@ -30,7 +30,7 @@ education:
   - area: Computer Science
     institution: University of Houston
     date_start: 2023-09-01
-    date_end: Present
+    date_end: ''
     summary: |
       Researching LLM safety and prompt compression, with a focus on making language models more reliable, efficient, and practical.
 
