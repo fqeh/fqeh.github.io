@@ -34,17 +34,49 @@ interests:
 education:
   - area: Computer Science
     institution: University of Houston
-    date_start: 2023-09-01
+    date_start: 2023-08-01
     date_end: ''
     summary: PhD student in the Amin Alipour Lab since Fall 2023.
+  - area: Computer Software Engineering (Master's degree)
+    institution: Florida Institute of Technology
+    date_start: 2017-01-01
+    date_end: 2019-01-01
+  - area: English for Academic Purposes and Pre-Master Program
+    institution: San Diego State University, American Language Institute
+    date_start: 2015-01-01
+    date_end: 2016-01-01
+  - area: Computer Science (Bachelor's degree)
+    institution: Umm Al-Qura University
+    date_start: 2009-01-01
+    date_end: 2014-01-01
 
 work:
-  - position: Lecturer
+  - position: PhD Student
+    company_name: University of Houston
+    company_url: https://www.aminalipour.com/team
+    date_start: 2023-08-01
+    date_end: ''
+  - position: Instructor
     company_name: Umm Al-Qura University
     company_url: https://uqu.edu.sa/en/Profile/aafgeeh
-    date_start: 2020-01-01
+    date_start: 2020-11-01
     date_end: ''
-    summary: Faculty member in the computers department at the College of Engineering and Computing in Al-Qunfudhah.
+  - position: Business Application Analyst
+    company_name: SABIC
+    date_start: 2020-03-01
+    date_end: 2020-11-01
+  - position: Business Analyst
+    company_name: Venta Home Healthcare
+    date_start: 2019-07-01
+    date_end: 2020-09-01
+  - position: Graduate Student
+    company_name: Florida Institute of Technology
+    date_start: 2017-08-01
+    date_end: 2019-05-01
+  - position: Computer Teacher
+    company_name: al-hijaz private schools
+    date_start: 2014-09-01
+    date_end: 2015-03-01
 
 skills:
   - name: Research Areas
