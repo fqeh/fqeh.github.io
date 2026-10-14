@@ -12,7 +12,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Professional portfolio, projects, and writing by FQEH.'
+    description: 'Ali Alfageeh is a PhD student and lecturer researching generative AI and student-AI interaction in computing education.'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -32,11 +32,11 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "FQEH"
+      text: "Ali Alfageeh"
 
 footer:
   copyright:
-    notice: '© {year} FQEH. All rights reserved.'
+    notice: '© {year} Ali Alfageeh. All rights reserved.'
     license:
       enable: false
 

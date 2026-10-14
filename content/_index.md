@@ -11,9 +11,6 @@ sections:
     content:
       username: admin
       text: ""
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -29,40 +26,19 @@ sections:
   - block: markdown
     id: contact
     content:
-      title: Let's Work Together
+      title: Connect
       text: |-
-        I'm open to software engineering roles and freelance collaborations.
-
-        The fastest way to reach me is via [GitHub](https://github.com/fqeh) or LinkedIn.
+        Find my publications on [Google Scholar](https://scholar.google.com/citations?user=Tif1W5AAAAAJ&hl=en), connect on [LinkedIn](https://www.linkedin.com/in/ali-alfageeh-182755132/), or visit the [Amin Alipour Lab](https://www.aminalipour.com/team).
     design:
       columns: '1'
 
   - block: collection
     content:
-      title: Selected Projects
-      text: Practical builds, experiments, and open-source work.
-      filters:
-        folders:
-          - project
-        exclude_featured: false
-    design:
-      view: article-grid
-      columns: 3
-
-  - block: collection
-    id: news
-    content:
-      title: Latest Writing
-      page_type: post
-      count: 4
-      filters:
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      offset: 0
+      title: Recent Publications
+      page_type: publication
+      count: 5
       order: desc
     design:
-      view: date-title-summary
-      spacing:
-        padding: [0, 0, 0, 0]
+      view: citation
+      columns: 1
 ---

@@ -1,78 +1,62 @@
 ---
-title: Ali A Alfageeh
-first_name: Ali Alfageeh
-last_name: ''
-
-status:
-  icon: 🚀
+title: Ali Abdurhman Mohammed Alfageeh
+first_name: Ali
+last_name: Alfageeh
 
 superuser: true
 highlight_name: true
 
-role: LLM Researcher
+role: PhD Student and Lecturer | Generative AI in Computing Education
 
 organizations:
+  - name: University of Houston
+    url: https://www.aminalipour.com/team
   - name: Umm Al-Qura University
-    url: https://uqu.edu.sa/aafgeeh/App/CV
+    url: https://uqu.edu.sa/en/Profile/aafgeeh
 
 profiles:
   - icon: brands/github
     url: https://github.com/fqeh
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/ali-alfageeh-182755132/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=Tif1W5AAAAAJ&hl=en
+  - icon: hero/academic-cap
+    url: https://www.aminalipour.com/team
 
 interests:
-  - Full-stack web development
-  - Product engineering
-  - AI-assisted workflows
+  - Generative AI in computing education
+  - Student-AI interaction
+  - Multilingual prompting
+  - Trust in AI
+  - Efficient prompting and few-shot selection
 
 education:
   - area: Computer Science
     institution: University of Houston
     date_start: 2023-09-01
     date_end: ''
-    summary: |
-      PhD student researching LLM safety and prompt compression, with a focus on making language models more reliable, efficient, and practical.
+    summary: PhD student in the Amin Alipour Lab since Fall 2023.
 
 work:
   - position: Lecturer
     company_name: Umm Al-Qura University
-    company_url: ''
+    company_url: https://uqu.edu.sa/en/Profile/aafgeeh
     date_start: 2020-01-01
     date_end: ''
-    summary: |
-      - Teach computer science courses and help students build strong foundations in programming and software development.
-      - Design course materials, assignments, and assessments to support practical, hands-on learning.
-      - Advise students on technical projects, academic progress, and career development.
+    summary: Faculty member in the computers department at the College of Engineering and Computing in Al-Qunfudhah.
 
 skills:
-  - name: Core Skills
+  - name: Research Areas
     items:
-      - name: JavaScript / TypeScript
-        percent: 85
+      - name: Generative AI in Computing Education
         icon: code-bracket
-      - name: React / Frontend
-        percent: 82
+      - name: Student-AI Interaction
         icon: command-line
-      - name: APIs & Backend
-        percent: 80
+      - name: Prompting and LLM Efficiency
         icon: circle-stack
-      - name: Cloud / DevOps
-        percent: 70
-        icon: cloud
-
-languages:
-  - name: Arabic and English
-    percent: 95
-
-awards:
-  - title: Add your certification or award
-    date: '2024-01-01'
-    awarder: Issuer name
-    summary: |
-      Replace this with your real certification or remove this section.
 ---
 
 ## About Me
 
-Researching LLM safety and prompt compression, with a focus on making language models more reliable, efficient, and practical.
+I am a PhD student at the University of Houston and a lecturer at Umm Al-Qura University. My research examines how students interact with generative AI, including multilingual prompting, trust in AI, and efficient use of large language models.
