@@ -1,5 +1,5 @@
 ---
-title: Ali Abdurhman Mohammed Alfageeh
+title: Ali Alfageeh
 first_name: Ali
 last_name: Alfageeh
 
